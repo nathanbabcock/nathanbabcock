@@ -9,7 +9,7 @@
 
 </td><td>
 
-## Writing & Speaking
+## ✍️ Writing & Speaking 📢
 
 - ![Toptal](assets/toptal.webp) Toptal: **Building a Computer Vision Pipeline in
   Rust** 🆕
@@ -22,5 +22,6 @@
   [...]](https://techcrunch.com/2021/09/10/3-methodologies-for-automated-video-game-highlight-detection-and-capture/)**
 - ![CSS Tricks](assets/csstricks.png) CSS Tricks: **[Using Google Drive as a CMS](https://css-tricks.com/using-google-drive-as-a-cms/)**
 - ![CSS Tricks](assets/csstricks.png) CSS Tricks: **[Creating Stylesheet Feature Flags With Sass !default](https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/)**
+- ![Invision](assets/invision.png) Invision: **[How Developers Shaped Motorola Solutions’ Design System](https://www.invisionapp.com/events/motorolasolutions-designsystems)**
 
 </td></tr></table>
