@@ -11,12 +11,12 @@
 
 ## ✍️ Writing & Speaking 📢
 
-- ![Toptal](assets/toptal.webp) Toptal: **Building a Computer Vision Pipeline in
+- ![Toptal](assets/toptal.png) Toptal: **Building a Computer Vision Pipeline in
   Rust** 🆕
   - *publishing this week!*
-- ![Toptal](assets/toptal.webp) Toptal: **[SolidJS vs
+- ![Toptal](assets/toptal.png) Toptal: **[SolidJS vs
   React](https://www.toptal.com/react/solidjs-vs-react/N4zk45/worlds-top-talent)**
-- ![Toptal](assets/toptal.webp) Toptal: **[React Router Tutorial](https://www.toptal.com/react/react-router-tutorial/N4zk45/worlds-top-talent)**
+- ![Toptal](assets/toptal.png) Toptal: **[React Router Tutorial](https://www.toptal.com/react/react-router-tutorial/N4zk45/worlds-top-talent)**
 - ![Techcrunch](assets/techcrunch.png) Techcrunch: **[Video Game Highlight
   Detection
   [...]](https://techcrunch.com/2021/09/10/3-methodologies-for-automated-video-game-highlight-detection-and-capture/)**
