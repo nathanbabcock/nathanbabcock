@@ -11,9 +11,7 @@
 
 ## ✍️ Writing & Speaking 📢
 
-- ![Toptal](assets/toptal.png) Toptal: **Building a Computer Vision Pipeline in
-  Rust** 🆕
-  - *publishing this week!*
+- ![Toptal](assets/toptal.png) Toptal: **[Computer Vision Pipeline Architecture](https://www.toptal.com/computer-vision/computer-vision-pipeline/N4zk45/worlds-top-talent)** 🆕
 - ![Toptal](assets/toptal.png) Toptal: **[SolidJS vs
   React](https://www.toptal.com/react/solidjs-vs-react/N4zk45/worlds-top-talent)**
 - ![Toptal](assets/toptal.png) Toptal: **[React Router Tutorial](https://www.toptal.com/react/react-router-tutorial/N4zk45/worlds-top-talent)**
