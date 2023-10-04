@@ -22,4 +22,5 @@
 - ![CSS Tricks](assets/csstricks.png) CSS Tricks: **[Creating Stylesheet Feature Flags With Sass !default](https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/)**
 - ![Invision](assets/invision.png) Invision: **[How Developers Shaped Motorola Solutions’ Design System](https://www.invisionapp.com/events/motorolasolutions-designsystems)**
 
+&nbsp;
 </td></tr></table>
